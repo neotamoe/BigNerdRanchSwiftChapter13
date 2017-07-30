@@ -14,6 +14,9 @@ Syntax generally follows this form
 }
 ```
 
+#### Challenges
+Bronze, Silver, Gold: all completed
+
 #### Tech Used
 * Xcode 8
 * Swift 3
